@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌟 Hello World! I'm Pragya Sonare
 
-<!--
-**pragyasonare/pragyasonare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer | 🚀 DSA (Java) Enthusiast  | 🌱 Continuous Learner  | 🧠 Problem Solver
 
-Here are some ideas to get you started:
+✨ **Believe:** Clean code + creative solutions = real-world impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Developer Toolkit
+
+**Full-Stack Craft:**  
+⚛️ React | 🟢 Node.js | 🚀 Express.js | 🍃 MongoDB  
+
+**Dev Essentials:**  
+📦 Git/GitHub | 🔗 REST APIs | 🛠️ Postman   
+
+**Core Competencies:**  
+🧠 DSA | ✨ OOP Principles | 🎨 UI Design (Tailwind) | 📊 SQL  
+
+
