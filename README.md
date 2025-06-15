@@ -1,6 +1,6 @@
 # 🌟 Hello World! I'm Pragya Sonare
 
-### 💻 Full-Stack Developer | 🚀 DSA (Java) Enthusiast  | 🌱 Continuous Learner  | 🧠 Problem Solver
+### 💻 MERN Stack Developer | 🚀 DSA (Java) Enthusiast  | 🌱 Continuous Learner  | 🧠 Problem Solver
 
 ✨ **Believe:** Clean code + creative solutions = real-world impact  
 
